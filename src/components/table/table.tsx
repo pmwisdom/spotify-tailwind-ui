@@ -66,3 +66,4 @@ export function Table<DataType extends unknown>({
     </div>
   );
 }
+  
